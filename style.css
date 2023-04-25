@@ -1,0 +1,136 @@
+*{
+    /* background-color: #569DAA; */
+    padding: 0;
+    margin: 0;
+}
+
+
+/* .box{
+    position: relative;
+    top:50px;
+    left: 25px;
+    height: 500px;
+    width: 500px;
+  
+    border-radius:10px 25px 100px 25px;
+    margin-left: 10px;
+    background-color: yellow;
+
+} */
+
+/* .box img{
+    
+    height: 250px;
+    width: 250px;
+    border-radius:10px 25px 100px 25px;
+} */
+/* .move-img-1{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    border-radius:10px 25px 100px 25px;
+
+} */
+/* .move-img-2{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    border-radius:10px 25px 100px 25px;
+} */
+/* .heading {
+    text-decoration: none;
+    position: absolute;
+    top:10%;
+    left:25%;   
+    height: 200px;
+    width: 200px;
+    border:1px solid black;
+    background-color: #F9F54B;
+} */
+
+/* .heading h1{
+    position: absolute;
+    left:10%;
+    top:10%;
+} */
+
+/* // mini project */
+
+.container{
+    font-family:"Nunito";
+    background-color: #2D2727;
+    height:1000px;
+
+}
+
+.container2{
+    background-color: yellowgreen;
+    height:5000px;
+}
+.navbar{
+    color:#FFEAEA
+}
+
+.box-2{
+    position: fixed;
+    top:40px;
+    left:70%;
+    padding:10px;
+    height: 467px;
+    width: 308px;
+    border:5px solid whitesmoke;
+    border-radius:15px;
+    background-color:#FFEAEA;
+    font-family:"Nunito";
+    cursor: pointer;
+}
+.box-2:active{
+    top:45px;
+}
+.heading{
+    /* font-family:"Nunito"; */
+    text-decoration: underline;
+    padding-left: 36px;
+    margin-bottom: 30px;
+
+}
+ul{
+   padding-left:54px;
+   /* font-family:"Nunito"; */
+   margin-bottom: 20px;
+}
+li{
+    line-height: 1.8;
+
+}
+
+.heading-box{
+    position: relative;
+    box-sizing: border-box;;
+    height: 35px;
+    width:180px;
+    margin-bottom: 10px;
+    padding:2px 20px;
+    border-radius: 5px;
+    border:1px dashed black;
+}
+.dashed-box-1{
+    background-color: #B0DAFF;
+    left:40px;
+
+}
+.dashed-box-1:hover{
+ background-color:#c8d5e0 ;
+ font-size: large;
+}
+.dashed-box-2{
+    background-color: #FFB4B4;
+    left:100px;
+}
+.dashed-box-2:hover{
+    font-size: large;
+    background-color: #f19b9b;
+}
+
+
+
